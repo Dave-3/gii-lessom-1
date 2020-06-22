@@ -1,1 +1,1 @@
-# My first gii project
+# My first yii project
